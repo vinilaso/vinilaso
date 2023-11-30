@@ -16,7 +16,7 @@
   
 - 🤙 Gosto de programar e aprender
 - 📖 Leitura faz parte do meu dia-a-dia
-- 🏫 Técnino am Análise e Desenvolvimento de Sistemas
+- 🏫 Técnico am Análise e Desenvolvimento de Sistemas
 - ♾️ Desenvolvedor full-stack iniciante
 - 📧 Entre em contato por email: vinicius.lanser@gmail.com
 
