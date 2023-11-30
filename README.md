@@ -54,6 +54,6 @@
 
 <div>
  <a href="https://github.com/vinilaso/" align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinilaso&theme=github-dark" alt="GitHub Streak" /></a>
-  <a href="https://github.com/vinilaso"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinilaso&theme=dark" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vinilaso" align="right"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinilaso&theme=dark" height="192px" width="30%" align="right"/></a>
 </div>
 
