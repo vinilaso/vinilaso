@@ -52,9 +52,8 @@
 <hr/>
 
 ## Principal projeto em andamento
- [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Gabrileon&repo=Web_BuzzOff&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Gabrileon/Web_BuzzOff)
+ ![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=vinilaso&repo=Quavidog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/vinilaso/Quavidog)
  <br/>
- <samp>Projeto desenvolvido como avaliação final do Programa Jovem Programador, realizado pelo SEPROSC em parceira com o Senac</samp>
 
 <hr/>
 
