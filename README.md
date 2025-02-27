@@ -15,9 +15,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="200" width="250" align="right"/>
   
 - 🤙 Gosto de programar e aprender
-- 📖 Leitura faz parte do meu dia-a-dia
-- 🏫 Técnico am Análise e Desenvolvimento de Sistemas
-- ♾️ Desenvolvedor full-stack iniciante
+- 🏫 Cursando ADS no Instituto Federal de Santa Catarina
 - 📧 Entre em contato por email: vinicius.lanser@gmail.com
 
 </p>
